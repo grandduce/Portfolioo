@@ -69,7 +69,7 @@ section::before {
 }
 
 .work::before {
-    content: 'work'
+    content: 'Work'
 }
 
 .work-img {
@@ -132,7 +132,7 @@ section::before {
 }
 
 .contact::before {
-    content: 'contact';
+    content: 'Contact';
 }
 
 .contact-form {
